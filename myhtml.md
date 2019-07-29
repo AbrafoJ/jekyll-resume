@@ -2,8 +2,7 @@
 title: "C'thulhu Resume"
 layout: resume
 ---
-
-# **Jordan Edward Dorham**
+## **Jordan Edward Dorham**
 
 ## Education
 
@@ -46,6 +45,3 @@ Selected Coursework: Object Oriented Application Development, C++ for Java Progr
 ### Encryption Program
 
 ## JDBC Project
-
-* Skills
-    *
