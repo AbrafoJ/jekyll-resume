@@ -3,14 +3,16 @@ title: "C'thulhu Resume"
 layout: resume
 ---
 
-# **Jordan Edward Dorham** ![]/IMG_2206.jpg
+# **Jordan Edward Dorham** 
+
+![APicOfMe]/IMG_2206.jpg
 
 ## Education
 
 ### California State University Long Beach
 
 B.S. Computer Science, GPA 3.217
-Expected December 2019 
+Expected December 2019
 
 Selected Coursework: Object Oriented Application Development, C++ for Java Programmers, Discrete Structures in Computing Applications, Introduction to Cyber Security Principles, Introduction to Software Engineering
 
