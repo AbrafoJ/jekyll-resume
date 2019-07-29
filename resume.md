@@ -1,6 +1,3 @@
-title: "C'thulhu Resume"
-layout: resume
-
 ---
 title: "C'thulhu Resume"
 layout: resume
