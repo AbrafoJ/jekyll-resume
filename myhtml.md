@@ -3,7 +3,7 @@ title: "C'thulhu Resume"
 layout: resume
 ---
 
-# **Jordan Edward Dorham**
+# **Jordan Edward Dorham** ![]/IMG_2206.jpg
 
 ## Education
 
