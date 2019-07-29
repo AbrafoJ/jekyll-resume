@@ -1,5 +1,4 @@
-
-title: Jordan Edward Dorham
+title: "C'thulhu Resume"
 layout: resume
 
 ---
